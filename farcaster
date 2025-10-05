@@ -1,0 +1,5 @@
+{
+    "allowedAddresses": ["0xbec382b561054ccdde4c077bd730f57007a3056a"],
+    "url": "https://your-mini-app.vercel.app",
+    "signature": "YOUR_SIGNATURE"
+}

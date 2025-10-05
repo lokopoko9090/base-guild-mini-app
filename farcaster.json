@@ -1,1 +1,12 @@
-
+{
+  "accountAssociation": {
+    "allowedAddresses": ["0xbec382b561054ccdde4c077bd730f57007a3056a"],
+    "signature": "0x38c0d849b38e4afe7aaeca0cfcab305be63d0745858096283711f08acbcdd0450afffea1543ca1b2c6cbe4e381e1c473513a26865daeca94ac4ea56f22e0b4341c"
+  },
+  "miniapp": {
+    "url": "https://base-guild-mini-app-62x3.vercel.app"
+  },
+  "baseBuilder": {
+    "allowedAddresses": ["0xF665edAF1Da29e32D626aEeFb72A53fF67DDD466"]
+  }
+}
